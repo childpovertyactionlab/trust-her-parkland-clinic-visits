@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Family Planning",
+    "section": "",
+    "text": "This report tracks quarterly family planning visit data from Parkland Health Clinics."
+  },
+  {
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
+    "title": "Family Planning",
+    "section": "Overview",
+    "text": "Overview\nThe table below displays the count of total clinic visits, contraceptives given, and total teen visits\n\n\nError in `transmute()`:\nℹ In argument: `Total Clinic Visits = scales::number(sum(age$total),\n  big.mark = \",\")`.\nℹ In group 1: `age = \"15-17\"`.\nCaused by error in `age$total`:\n! $ operator is invalid for atomic vectors"
+  },
+  {
+    "objectID": "index.html#client-demographics",
+    "href": "index.html#client-demographics",
+    "title": "Family Planning",
+    "section": "Client Demographics",
+    "text": "Client Demographics"
+  },
+  {
+    "objectID": "index.html#geographic-data",
+    "href": "index.html#geographic-data",
+    "title": "Family Planning",
+    "section": "Geographic Data",
+    "text": "Geographic Data"
+  },
+  {
+    "objectID": "index.html#contraceptive-data",
+    "href": "index.html#contraceptive-data",
+    "title": "Family Planning",
+    "section": "Contraceptive Data",
+    "text": "Contraceptive Data"
+  }
+]
