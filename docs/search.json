@@ -11,27 +11,34 @@
     "href": "index.html#overview",
     "title": "Family Planning",
     "section": "Overview",
-    "text": "Overview\nThe table below displays the count of total clinic visits, contraceptives given, and total teen visits\n\n\nError in `transmute()`:\nℹ In argument: `Total Clinic Visits = scales::number(sum(age$total),\n  big.mark = \",\")`.\nℹ In group 1: `age = \"15-17\"`.\nCaused by error in `age$total`:\n! $ operator is invalid for atomic vectors"
+    "text": "Overview\nThe table below displays the count of total clinic visits, contraceptives given, and total teen visits"
   },
   {
-    "objectID": "index.html#client-demographics",
-    "href": "index.html#client-demographics",
+    "objectID": "index.html#patient-demographics",
+    "href": "index.html#patient-demographics",
     "title": "Family Planning",
-    "section": "Client Demographics",
-    "text": "Client Demographics"
+    "section": "Patient Demographics",
+    "text": "Patient Demographics"
   },
   {
     "objectID": "index.html#geographic-data",
     "href": "index.html#geographic-data",
     "title": "Family Planning",
     "section": "Geographic Data",
-    "text": "Geographic Data"
+    "text": "Geographic Data\n\n\n\n\n\n\n\n\n\n\n\n\nThis map visualizes the patient density per zip code"
   },
   {
-    "objectID": "index.html#contraceptive-data",
-    "href": "index.html#contraceptive-data",
+    "objectID": "index.html#contraceptive-and-payor-insights",
+    "href": "index.html#contraceptive-and-payor-insights",
     "title": "Family Planning",
-    "section": "Contraceptive Data",
-    "text": "Contraceptive Data"
+    "section": "Contraceptive and Payor Insights",
+    "text": "Contraceptive and Payor Insights"
+  },
+  {
+    "objectID": "index.html#larc-insights",
+    "href": "index.html#larc-insights",
+    "title": "Family Planning",
+    "section": "LARC Insights",
+    "text": "LARC Insights"
   }
 ]

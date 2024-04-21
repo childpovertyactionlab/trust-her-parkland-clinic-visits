@@ -1,0 +1,975 @@
+cpt,age,race,ethnicity,zip,payor,date,quarter,year
+J7297,21,White,Hispanic,75240,Charity,2023-01-01,Quarter 1,2023
+J7297,44,Black,Non-Hispanic,75042,Charity,2023-01-01,Quarter 1,2023
+J7297,30,White,Hispanic,75228,Charity,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75243,Charity,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75104,Commercial,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75137,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,38,Black,Non-Hispanic,75218,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,37,White,Hispanic,75042,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,39,White,Hispanic,75068,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,19,White,Hispanic,75217,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,41,Black,Non-Hispanic,76010,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75236,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75040,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75228,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,33,White,Hispanic,75238,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75006,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,16,White,Hispanic,75060,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75149,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,26,Asian,Non-Hispanic,76052,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,35,White,Hispanic,75217,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,36,White,Hispanic,75248,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75080,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75220,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,35,White,Hispanic,75243,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75040,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75232,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75149,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,36,White,Hispanic,75254,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75060,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75235,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,18,White,Hispanic,75220,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,30,White,Hispanic,75074,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,75215,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,31,White,Hispanic,75115,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75165,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,36,White,Hispanic,75215,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,31,Black,Non-Hispanic,75081,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,75006,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,35,White,Hispanic,75227,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75060,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,19,White,Hispanic,75228,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75217,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75234,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,40,Black,Non-Hispanic,75243,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,37,White,Hispanic,75229,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,32,White,Hispanic,75040,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75215,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75165,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75180,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75006,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,75248,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,76137,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,42,White,Hispanic,75220,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,50,White,Non-Hispanic,75040,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,20,Pacific Islander,Non-Hispanic,75048,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75223,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75141,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,18,White,Hispanic,75210,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,37,White,Hispanic,75232,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,33,White,Hispanic,75210,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,28,White,Hispanic,76015,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,28,White,Hispanic,75220,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,40,White,Hispanic,75002,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,47,Black,Non-Hispanic,75237,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75040,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,42,White,Hispanic,75220,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75216,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75043,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,37,White,Hispanic,75180,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,31,White,Hispanic,75211,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,35,White,Hispanic,75159,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75232,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,76040,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75150,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75232,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75002,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75001,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75231,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,31,White,Hispanic,75217,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,31,White,Hispanic,75173,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,37,White,Hispanic,75216,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,35,White,Hispanic,75231,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75238,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75217,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,18,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,32,White,Hispanic,76039,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,14,White,Hispanic,75229,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75287,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75211,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75231,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,37,White,Hispanic,75237,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,75180,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,76051,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75214,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,33,Black,Non-Hispanic,75114,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,31,Black,Non-Hispanic,75126,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75240,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75217,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,32,White,Hispanic,75040,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75217,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75287,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75041,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,39,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,75237,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,41,White,Hispanic,75115,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75081,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,32,White,Hispanic,75224,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,31,White,Hispanic,75169,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75228,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,32,White,Hispanic,75210,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75067,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,75220,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75248,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,37,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,33,White,Hispanic,75240,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75211,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75062,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75088,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,38,White,Hispanic,75061,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75080,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75134,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75006,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,30,White,Hispanic,75232,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,19,White,Hispanic,75227,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,33,White,Hispanic,75042,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75062,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,30,White,Hispanic,75081,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,30,White,Hispanic,75075,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75180,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,38,White,Hispanic,75060,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75038,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75217,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,35,White,Hispanic,75231,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,76014,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,76118,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75287,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,35,White,Hispanic,75150,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,Black,Non-Hispanic,76262,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,34,Black,Non-Hispanic,75181,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,17,White,Hispanic,75080,Emergency Medicaid,2023-01-01,Quarter 1,2023
+J7297,36,White,Hispanic,75240,Managed Care,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,75114,Managed Care,2023-01-01,Quarter 1,2023
+J7297,15,White,Non-Hispanic,75126,Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75050,Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,Black,Non-Hispanic,75043,Managed Care,2023-01-01,Quarter 1,2023
+J7297,40,White,Hispanic,76064,Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75024,Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75252,Managed Care,2023-01-01,Quarter 1,2023
+J7297,15,Black,Non-Hispanic,75098,Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75217,Managed Care ACA,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75051,Medicaid (traditional),2023-01-01,Quarter 1,2023
+J7297,31,White,Hispanic,75126,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,76010,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75217,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,19,White,Hispanic,75057,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75062,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75216,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75234,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,Black,Non-Hispanic,75215,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,Black,Non-Hispanic,75159,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,29,Black,Non-Hispanic,75241,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,Black,Non-Hispanic,75216,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75236,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75216,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,39,White,Hispanic,75216,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75080,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,Black,Non-Hispanic,75115,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,38,Black,Non-Hispanic,75159,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75061,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75060,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,Black,Non-Hispanic,75211,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,27,Black,Non-Hispanic,75224,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75228,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,30,Black,Non-Hispanic,75146,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75253,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,28,White,Hispanic,75236,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75211,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,32,White,Hispanic,75149,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75172,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,19,White,Hispanic,75001,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75232,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75227,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75040,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,Black,Non-Hispanic,75061,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75051,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,35,White,Non-Hispanic,75203,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,33,Black,Non-Hispanic,75241,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75150,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75211,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75210,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75180,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75212,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,Black,Non-Hispanic,75075,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75224,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,Black,Non-Hispanic,75043,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,36,Black,Non-Hispanic,75217,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75218,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75224,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75216,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75253,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,19,White,Hispanic,75217,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,Black,Non-Hispanic,75126,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75211,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75134,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,Black,Non-Hispanic,75243,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,29,White,Hispanic,75061,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75212,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,28,White,Hispanic,75146,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,28,White,Hispanic,75189,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75051,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75119,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,25,White,Hispanic,75218,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75080,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,Black,Non-Hispanic,75216,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75212,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,29,Black,Non-Hispanic,75115,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75043,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,Black,Non-Hispanic,75149,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75169,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,17,White,Hispanic,75050,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,28,White,Hispanic,75231,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,Black,Non-Hispanic,75042,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75216,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,30,White,Hispanic,75253,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,31,White,Hispanic,75228,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,White,Hispanic,75236,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75235,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75180,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,20,White,Hispanic,75040,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,32,White,Hispanic,75211,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75040,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,28,Black,Non-Hispanic,75382,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,Black,Non-Hispanic,75180,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,Black,Non-Hispanic,75227,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,25,Black,Non-Hispanic,75252,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,White,Hispanic,75217,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,37,White,Hispanic,75208,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75060,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,White,Hispanic,75232,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75227,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,22,Black,Non-Hispanic,75212,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,26,Black,Non-Hispanic,75216,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,24,White,Hispanic,75231,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,15,White,Hispanic,75227,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,19,White,Hispanic,75048,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75160,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,25,Black,Non-Hispanic,75287,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,21,White,Hispanic,75215,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,30,White,Hispanic,75223,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,23,Black,Non-Hispanic,75154,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75062,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,27,White,Hispanic,75048,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,17,White,Hispanic,75237,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,32,Black,Non-Hispanic,75232,Medicaid Managed Care,2023-01-01,Quarter 1,2023
+J7297,34,White,Hispanic,75236,Medicare Managed Care,2023-01-01,Quarter 1,2023
+J7297,29,White,Non-Hispanic,75207,Charity,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75228,Charity,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75149,Charity,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75180,Commercial,2023-04-01,Quarter 2,2023
+J7297,27,Black,Non-Hispanic,75147,Commercial,2023-04-01,Quarter 2,2023
+J7297,41,Black,Non-Hispanic,75215,Commercial,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75224,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,76018,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,22,White,Hispanic,75235,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,24,Black,Non-Hispanic,75150,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75248,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,33,White,Hispanic,75089,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,37,Black,Non-Hispanic,75039,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,26,White,Hispanic,75220,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,17,White,Hispanic,75418,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,76010,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75217,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,22,White,Hispanic,75229,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75217,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75240,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,34,White,Hispanic,75253,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,26,White,Hispanic,75231,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75189,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,38,White,Hispanic,75149,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75287,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75116,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75217,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75159,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,20,White,Hispanic,75240,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75051,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75240,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,28,White,Hispanic,75189,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75159,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,39,White,Hispanic,75216,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,28,White,Hispanic,75061,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,42,White,Hispanic,75051,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,38,White,Hispanic,75220,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,18,White,Hispanic,75062,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,37,Black,Non-Hispanic,75126,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,36,Black,Non-Hispanic,75234,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75238,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75216,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75216,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75220,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,26,White,Hispanic,75234,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,22,White,Hispanic,75232,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,33,White,Hispanic,75154,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,Black,Non-Hispanic,75078,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75240,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75075,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,76010,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,22,White,Hispanic,75081,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75243,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,31,Asian,Non-Hispanic,75150,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,28,White,Hispanic,75216,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,36,White,Hispanic,75006,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75287,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75061,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75220,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,37,White,Hispanic,75007,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75206,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75216,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75181,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,35,White,Hispanic,75217,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75217,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,36,White,Hispanic,75061,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,36,White,Hispanic,75227,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,28,White,Hispanic,75227,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,37,White,Hispanic,75051,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,31,White,Hispanic,75253,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Non-Hispanic,75071,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75061,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75227,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75228,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,20,White,Hispanic,75042,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,26,White,Hispanic,75287,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75204,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75062,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75203,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,31,White,Hispanic,75217,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75156,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75243,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75180,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,36,Black,Non-Hispanic,75231,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,38,White,Hispanic,75041,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,31,White,Hispanic,75219,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75149,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,38,White,Hispanic,75220,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,28,White,Hispanic,75060,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75074,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75050,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75216,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,38,White,Hispanic,75051,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,31,White,Hispanic,75062,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,39,White,Hispanic,75227,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75217,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,18,White,Hispanic,75040,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,26,White,Hispanic,75235,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75080,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75228,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,19,White,Hispanic,75240,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,33,White,Hispanic,75238,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,39,White,Hispanic,75116,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75236,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75181,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,33,White,Hispanic,76692,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,22,White,Hispanic,75010,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75217,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75287,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,37,White,Hispanic,75220,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,Black,Non-Hispanic,75231,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75234,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75253,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,39,White,Hispanic,75215,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,76010,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75223,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,35,White,Hispanic,75051,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,35,White,Hispanic,75159,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75159,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75040,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75216,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,40,White,Hispanic,75212,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75211,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,37,White,Hispanic,75040,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,28,White,Hispanic,75231,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75240,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75211,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75243,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75228,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75287,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75081,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75253,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75038,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75043,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75211,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,26,White,Hispanic,75060,Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,34,White,Hispanic,75180,Pending Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75062,Pending Emergency Medicaid,2023-04-01,Quarter 2,2023
+J7297,24,Black,Non-Hispanic,75150,Managed Care,2023-04-01,Quarter 2,2023
+J7297,27,Black,Non-Hispanic,75217,Managed Care,2023-04-01,Quarter 2,2023
+J7297,22,Black,Non-Hispanic,75146,Managed Care,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75060,Managed Care,2023-04-01,Quarter 2,2023
+J7297,24,Black,Non-Hispanic,75216,Managed Care,2023-04-01,Quarter 2,2023
+J7297,36,Black,Non-Hispanic,75212,Managed Care,2023-04-01,Quarter 2,2023
+J7297,20,White,Hispanic,75116,Managed Care,2023-04-01,Quarter 2,2023
+J7297,25,Black,Non-Hispanic,75254,Managed Care,2023-04-01,Quarter 2,2023
+J7297,32,Black,Non-Hispanic,75044,Managed Care,2023-04-01,Quarter 2,2023
+J7297,33,White,Hispanic,75212,Managed Care,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75211,Managed Care,2023-04-01,Quarter 2,2023
+J7297,37,White,Hispanic,75236,Managed Care,2023-04-01,Quarter 2,2023
+J7297,25,Black,Non-Hispanic,75235,Managed Care,2023-04-01,Quarter 2,2023
+J7297,36,White,Hispanic,75051,Managed Care,2023-04-01,Quarter 2,2023
+J7297,36,White,Hispanic,75137,Managed Care,2023-04-01,Quarter 2,2023
+J7297,35,White,Hispanic,75227,Managed Care,2023-04-01,Quarter 2,2023
+J7297,32,White,Hispanic,75248,Managed Care,2023-04-01,Quarter 2,2023
+J7297,31,White,Non-Hispanic,75244,Managed Care,2023-04-01,Quarter 2,2023
+J7297,31,Black,Non-Hispanic,75216,Managed Care,2023-04-01,Quarter 2,2023
+J7297,31,White,Hispanic,75160,Medicaid (traditional),2023-04-01,Quarter 2,2023
+J7297,30,Black,Non-Hispanic,76244,Medicaid (traditional),2023-04-01,Quarter 2,2023
+J7297,31,White,Non-Hispanic,75243,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,30,Black,Non-Hispanic,75243,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,33,White,Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,30,White,Hispanic,75231,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,35,White,Hispanic,75062,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,19,Black,Non-Hispanic,75243,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,22,White,Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,20,White,Hispanic,75061,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,35,White,Non-Hispanic,75216,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,22,White,Hispanic,75229,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,15,White,Hispanic,75220,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,31,Black,Non-Hispanic,75232,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,40,Asian,Non-Hispanic,75081,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75228,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,18,White,Hispanic,75081,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,22,Black,Non-Hispanic,75038,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,18,White,Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,21,Black,Hispanic,75211,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,30,Black,Non-Hispanic,75243,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,19,White,Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75115,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,34,White,Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,31,White,Hispanic,75243,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,25,Black,Non-Hispanic,75141,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,24,Black,Non-Hispanic,75236,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,28,Black,Non-Hispanic,75180,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,27,White,Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,22,Black,Non-Hispanic,75201,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75043,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,25,Black,Non-Hispanic,75216,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75040,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,23,White,Non-Hispanic,75227,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,30,Black,Non-Hispanic,75215,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,23,Black,Non-Hispanic,75042,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75241,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,34,White,Hispanic,75223,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,34,Black,Non-Hispanic,75098,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,22,Asian,Non-Hispanic,75228,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,31,Black,Non-Hispanic,75189,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,24,Black,Non-Hispanic,75409,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,28,Black,Non-Hispanic,75080,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,31,White,Hispanic,75216,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,18,White,Hispanic,75211,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75126,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75254,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,33,White,Non-Hispanic,75020,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,20,Black,Non-Hispanic,75043,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,29,White,Hispanic,75287,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,20,Black,Non-Hispanic,75233,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,16,Black,Non-Hispanic,75216,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,34,Black,Non-Hispanic,75241,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,37,Black,Non-Hispanic,75215,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75234,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,18,White,Hispanic,75142,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,28,White,Hispanic,75038,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,16,Am Indian,Non-Hispanic,75042,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,31,White,Hispanic,75211,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,25,Black,Non-Hispanic,75228,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,21,Black,Hispanic,75228,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,25,White,Hispanic,75150,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,32,Black,Non-Hispanic,75035,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,28,Black,Non-Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,24,White,Hispanic,75211,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,38,White,Hispanic,75211,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,23,White,Hispanic,75217,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,33,White,Hispanic,75231,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,26,Black,Non-Hispanic,75240,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,26,White,Hispanic,75227,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75243,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,19,White,Hispanic,75116,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,21,White,Hispanic,75235,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,19,White,Hispanic,75227,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,33,Black,Non-Hispanic,75038,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,26,White,Non-Hispanic,75231,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,39,Black,Non-Hispanic,75150,Medicaid Managed Care,2023-04-01,Quarter 2,2023
+J7297,20,White,Hispanic,75050,Commercial,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75248,Commercial,2023-07-01,Quarter 3,2023
+J7297,38,White,Hispanic,75227,Commercial,2023-07-01,Quarter 3,2023
+J7297,30,White,Hispanic,75211,Commercial,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75287,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,31,Black,Non Hispanic,75061,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,18,White,Hispanic,75240,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,42,White,Hispanic,75061,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75061,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,29,Black,Non Hispanic,75181,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75228,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,33,White,Hispanic,75244,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75060,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,19,White,Hispanic,75211,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,19,White,Hispanic,75062,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,76103,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75038,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75287,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75208,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,36,White,Hispanic,75060,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,29,White,Hispanic,75007,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,30,White,Hispanic,75050,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75050,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,36,Black,Non Hispanic,75081,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75218,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75116,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75240,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75240,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75062,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75211,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,30,White,Hispanic,75287,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,30,White,Hispanic,75240,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,38,White,Hispanic,75233,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75080,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75240,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75040,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,36,White,Hispanic,75115,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75217,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,33,White,Hispanic,75060,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75220,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75050,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75287,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75204,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75060,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,19,White,Hispanic,76010,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,31,White,Hispanic,75216,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75060,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,29,White,Hispanic,75125,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75062,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75060,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75115,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75287,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75252,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,31,White,Hispanic,75043,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75241,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75080,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75042,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,76111,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75216,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75248,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75043,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75228,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75240,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,44,White,Hispanic,75159,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,34,White,Hispanic,75218,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75160,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,38,White,Hispanic,75215,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,36,Black,Non Hispanic,75243,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,33,White,Hispanic,75061,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,40,White,Hispanic,75211,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75060,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,34,Black,Non Hispanic,75067,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75248,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,30,White,Hispanic,75212,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75237,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75233,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,34,White,Hispanic,75224,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,76112,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75038,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75061,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75217,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75062,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75220,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75216,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,29,White,Hispanic,75040,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75220,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75080,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75050,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75253,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,34,White,Hispanic,75220,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,31,White,Hispanic,75006,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75216,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,76010,Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,36,White,Hispanic,75287,Managed Care,2023-07-01,Quarter 3,2023
+J7297,17,White,Hispanic,75216,Managed Care,2023-07-01,Quarter 3,2023
+J7297,33,White,Hispanic,76011,Managed Care,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75212,Managed Care,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75043,Managed Care,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75217,Managed Care,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75217,Managed Care,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75137,Managed Care,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75150,Managed Care,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75146,Managed Care,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75061,Managed Care,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75238,Managed Care,2023-07-01,Quarter 3,2023
+J7297,44,White,Hispanic,75040,Managed Care,2023-07-01,Quarter 3,2023
+J7297,34,White,Hispanic,76039,Managed Care,2023-07-01,Quarter 3,2023
+J7297,32,White,Non Hispanic,75229,Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,Black,Non Hispanic,75115,Managed Care,2023-07-01,Quarter 3,2023
+J7297,37,Black,Non Hispanic,75407,Managed Care,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75212,Managed Care,2023-07-01,Quarter 3,2023
+J7297,38,Black,Non Hispanic,75149,Medicaid (traditional),2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75227,Medicaid (traditional),2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75224,Medicaid (traditional),2023-07-01,Quarter 3,2023
+J7297,36,White,Hispanic,75232,Medicaid (traditional),2023-07-01,Quarter 3,2023
+J7297,16,White,Hispanic,75224,Medicaid (traditional),2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75150,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,33,White,Hispanic,75180,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75248,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75043,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,19,White,Hispanic,75254,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,16,White,Hispanic,75210,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75224,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75116,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,22,Black,Non Hispanic,75224,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75150,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75232,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75210,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75067,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,38,White,Hispanic,75227,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75224,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75224,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75228,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75243,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,37,Asian,Non Hispanic,75243,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,37,White,Non Hispanic,75243,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75243,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,35,Black,Non Hispanic,75201,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,Asian,Non Hispanic,75231,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,28,Black,Non Hispanic,75006,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75214,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,13,Black,Non Hispanic,75409,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75217,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,32,Black,Non Hispanic,75126,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75211,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,37,White,Non Hispanic,76120,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,22,Black,Non Hispanic,75210,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75227,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,20,Black,Non Hispanic,76065,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75216,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75224,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,30,Pac Islander,Non Hispanic,75228,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75080,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,19,White,Hispanic,75203,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,27,White,Non Hispanic,75044,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75241,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,21,Black,Non Hispanic,75228,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75104,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75217,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75052,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75061,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,29,White,Hispanic,75114,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,28,Black,Non Hispanic,75228,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75154,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,28,Unknown,Non Hispanic,75243,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75232,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75160,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,41,Asian,Non Hispanic,75081,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,17,White,Hispanic,75043,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75217,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75227,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,36,White,Hispanic,75088,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75216,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,30,White,Hispanic,75154,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,19,White,Hispanic,75240,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,30,White,Hispanic,75216,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,31,Black,Non Hispanic,75038,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,18,Black,Non Hispanic,75201,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,28,Black,Non Hispanic,75216,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,34,Black,Non Hispanic,75181,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,38,White,Non Hispanic,75044,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,32,White,Non Hispanic,75098,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,16,White,Hispanic,75159,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75212,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75216,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,27,Black,Non Hispanic,75154,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75217,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75220,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,29,Black,Non Hispanic,75052,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,30,White,Non Hispanic,75041,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75060,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75041,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,29,White,Hispanic,75217,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75160,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75180,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,Black,Non Hispanic,75231,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,Black,Non Hispanic,75232,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75080,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75052,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75040,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75228,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75211,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,19,White,Hispanic,75223,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75227,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,41,White,Hispanic,75160,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,17,Black,Non Hispanic,75211,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,22,Black,Non Hispanic,75210,Medicaid Managed Care,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,76117,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,31,White,Hispanic,75067,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75228,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75062,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75248,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75060,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75243,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,76112,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,32,White,Hispanic,75216,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,Black,Non Hispanic,75009,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75216,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,19,White,Hispanic,75137,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75060,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,30,White,Hispanic,75087,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,36,White,Hispanic,75050,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,18,White,Hispanic,75220,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75062,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,34,White,Hispanic,75042,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,31,White,Hispanic,75220,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,21,White,Hispanic,75220,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,34,White,Hispanic,75208,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75143,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,36,White,Hispanic,75217,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,17,White,Hispanic,75201,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,Asian,Non Hispanic,75081,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,23,White,Hispanic,75159,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,38,Black,Non Hispanic,75126,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,37,White,Hispanic,75137,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,34,White,Hispanic,75067,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,41,Black,Non Hispanic,75252,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75165,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75287,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75237,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75243,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,Black,Non Hispanic,75189,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75052,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,28,White,Hispanic,75081,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,18,White,Hispanic,75243,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,26,White,Hispanic,75227,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,25,White,Hispanic,75253,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,35,White,Hispanic,75150,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,34,White,Hispanic,75042,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,43,White,Hispanic,75115,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,27,White,Hispanic,75231,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,22,White,Hispanic,75240,Pending Emergency Medicaid,2023-07-01,Quarter 3,2023
+J7297,20,White,Hispanic,75234,Pending Funding,2023-07-01,Quarter 3,2023
+J7297,15,White,Hispanic,75150,Pending Funding,2023-07-01,Quarter 3,2023
+J7297,31,White,Hispanic,75240,Pending Funding,2023-07-01,Quarter 3,2023
+J7297,24,White,Hispanic,75252,Pending Funding,2023-07-01,Quarter 3,2023
+J7297,25,Black,Non-Hispanic,75235,Charity,2023-10-01,Quarter 4,2023
+J7297,30,Black,Non-Hispanic,76118,Commercial,2023-10-01,Quarter 4,2023
+J7297,29,White,Hispanic,75229,Commercial,2023-10-01,Quarter 4,2023
+J7297,27,White,Non-Hispanic,75206,Commercial,2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75149,Commercial,2023-10-01,Quarter 4,2023
+J7297,34,White,Hispanic,75235,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75189,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,28,White,Hispanic,75051,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,34,White,Hispanic,75062,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75050,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,34,White,Hispanic,75228,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75203,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,23,White,Hispanic,75217,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,37,Black,Non-Hispanic,75287,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75038,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75241,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75235,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75220,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75007,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,29,White,Hispanic,75081,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,76012,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75212,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,36,White,Hispanic,75043,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,33,Black,Hispanic,75218,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75231,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75233,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,31,White,Hispanic,75160,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,22,White,Non-Hispanic,75231,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,38,White,Hispanic,75149,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,76040,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75254,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75061,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75061,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75211,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,75243,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,19,White,Hispanic,75062,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,34,White,Hispanic,75215,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,35,Black,Non-Hispanic,75243,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75248,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75189,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75253,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,31,White,Hispanic,75253,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,16,White,Hispanic,75220,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,38,Black,Non-Hispanic,75207,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,23,White,Hispanic,75060,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75061,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75220,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75232,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,40,White,Hispanic,75149,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75227,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,33,White,Hispanic,75041,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75060,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,33,White,Hispanic,75211,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,28,White,Hispanic,75060,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75069,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75254,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,17,White,Hispanic,75228,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75220,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,33,White,Hispanic,75217,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75010,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,42,White,Hispanic,75042,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,35,White,Non-Hispanic,75287,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75165,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,30,Black,Non-Hispanic,75075,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75204,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75253,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,23,White,Hispanic,75051,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,28,White,Hispanic,75235,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,33,White,Hispanic,76051,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75227,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75287,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75231,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75229,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75041,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75224,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,31,White,Hispanic,75050,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,31,White,Hispanic,75040,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,17,White,Hispanic,75234,Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,23,Black,Non-Hispanic,75071,Managed Care,2023-10-01,Quarter 4,2023
+J7297,29,White,Hispanic,75067,Managed Care,2023-10-01,Quarter 4,2023
+J7297,38,Black,Non-Hispanic,75243,Managed Care,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75216,Managed Care,2023-10-01,Quarter 4,2023
+J7297,17,White,Hispanic,75002,Managed Care,2023-10-01,Quarter 4,2023
+J7297,28,Black,Non-Hispanic,75227,Managed Care,2023-10-01,Quarter 4,2023
+J7297,28,White,Hispanic,75048,Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75287,Managed Care,2023-10-01,Quarter 4,2023
+J7297,42,White,Hispanic,75052,Managed Care,2023-10-01,Quarter 4,2023
+J7297,28,Black,Non-Hispanic,75146,Managed Care,2023-10-01,Quarter 4,2023
+J7297,15,White,Hispanic,75224,Managed Care,2023-10-01,Quarter 4,2023
+J7297,38,White,Hispanic,75243,Managed Care,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75254,Managed Care,2023-10-01,Quarter 4,2023
+J7297,34,White,Hispanic,75180,Managed Care,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75232,Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,Black,Non-Hispanic,75201,Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75038,Managed Care,2023-10-01,Quarter 4,2023
+J7297,33,White,Non-Hispanic,75235,Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,White,Non-Hispanic,75126,Managed Care,2023-10-01,Quarter 4,2023
+J7297,29,White,Non-Hispanic,75077,Managed Care,2023-10-01,Quarter 4,2023
+J7297,22,Black,Non-Hispanic,75002,Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,Black,Non-Hispanic,75126,Managed Care,2023-10-01,Quarter 4,2023
+J7297,31,White,Non-Hispanic,77835,Medicaid (traditional),2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75206,Medicaid (traditional),2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,78221,Medicaid (traditional),2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75231,Medicaid (traditional),2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75116,Medicaid (traditional),2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75125,Medicaid (traditional),2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,76006,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75229,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,34,White,Hispanic,75041,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,28,Black,Non-Hispanic,75150,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,19,White,Hispanic,75043,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,Black,Non-Hispanic,75231,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,19,White,Hispanic,75253,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,19,Black,Non-Hispanic,75217,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,38,Black,Non-Hispanic,75216,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,75211,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75212,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75211,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,32,Black,Non-Hispanic,75233,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,20,Black,Non-Hispanic,75228,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,White,Non-Hispanic,75243,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,25,Black,Non-Hispanic,75043,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,19,White,Hispanic,75237,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,42,Black,Non-Hispanic,75217,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75154,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,20,Black,Non-Hispanic,75215,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,Asian,Non-Hispanic,75019,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,37,White,Hispanic,75041,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,26,Black,Non-Hispanic,75134,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75231,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,19,White,Hispanic,75211,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,75224,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,32,White,Non-Hispanic,75243,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75212,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,21,Black,Non-Hispanic,75229,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,40,Black,Non-Hispanic,75243,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75141,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75211,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75203,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,75040,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75211,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,Black,Non-Hispanic,75228,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,Black,Non-Hispanic,75154,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,75050,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75146,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75149,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,29,Asian,Non-Hispanic,75243,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,37,White,Hispanic,75150,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,24,Black,Non-Hispanic,75137,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,32,Black,Non-Hispanic,75207,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,35,White,Non-Hispanic,75231,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75218,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,18,White,Hispanic,75146,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,Black,Non-Hispanic,75216,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,14,Black,Non-Hispanic,75243,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75051,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,23,White,Hispanic,75233,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,20,Black,Non-Hispanic,75149,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,Black,Non-Hispanic,75041,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75150,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,19,Black,Non-Hispanic,75115,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75104,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,75217,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,17,White,Hispanic,75150,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,76053,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,32,White,Hispanic,75149,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,23,Black,Non-Hispanic,75217,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,31,Black,Non-Hispanic,75180,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,14,White,Hispanic,75238,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,33,White,Non-Hispanic,75098,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,31,Black,Non-Hispanic,75212,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75229,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,16,White,Hispanic,75214,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75042,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,28,Black,Non-Hispanic,75233,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,26,Black,Non-Hispanic,75137,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75006,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,39,White,Hispanic,75217,Medicaid Managed Care,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75228,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,33,White,Hispanic,75227,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75051,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,28,White,Hispanic,75060,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75041,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,75243,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,41,White,Hispanic,75189,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,23,White,Hispanic,75142,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75223,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75227,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75149,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75243,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,35,White,Hispanic,75052,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,27,White,Hispanic,75217,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,34,White,Hispanic,75206,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,26,White,Hispanic,75216,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,28,White,Hispanic,75216,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75216,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,33,White,Hispanic,75217,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,34,White,Hispanic,75173,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,76021,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,28,White,Hispanic,75254,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,28,White,Hispanic,75119,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75224,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75150,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,41,White,Hispanic,75224,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,White,Hispanic,75211,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,23,White,Hispanic,75241,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,19,White,Hispanic,75126,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,38,Asian,Non-Hispanic,75044,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75061,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75240,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,24,Asian,Non-Hispanic,75044,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,18,White,Hispanic,75229,Pending Emergency Medicaid,2023-10-01,Quarter 4,2023
+J7297,33,White,Hispanic,75220,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,38,White,Hispanic,75227,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,30,White,Hispanic,75227,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,25,White,Hispanic,75235,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75240,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75216,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,21,White,Hispanic,75287,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,34,Black,Non-Hispanic,75093,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,20,White,Hispanic,75211,Pending Funding,2023-10-01,Quarter 4,2023
+J7297,22,White,Hispanic,75287,Pending Funding,2023-10-01,Quarter 4,2023
