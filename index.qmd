@@ -1,5 +1,5 @@
 ---
-title: "Family Planning"
+title: "Family Planning Clinic Visits"
 include-in-header: www/script.html
 ---
 
@@ -20,7 +20,7 @@ library(readr)
 library(cpaltemplates)
 library(DT)
 
-libDB <- "/Users/anushachowdhury/CPAL Dropbox"
+libDB <- "/Users/Michael/CPAL Dropbox"
 parklandDir <- "/Maternal Health/02_Data/Parkland Family Planning/reexternalreparklanddatareport"
 parklandFiles <- list.files(path = paste0(libDB, parklandDir), pattern = "*.xls", full.names = TRUE)
 
@@ -33,12 +33,13 @@ titleX<-read_csv('data/titleX.csv', show_col_types = FALSE)
 larc<-read_csv('data/larc.csv', show_col_types = FALSE)
 
 ```
-This report tracks quarterly family planning visit data from Parkland Health Clinics.
+The Child Poverty Action Lab receives a roll-up of family planning related visits to Parkland Health Clinics across Dallas County quarterly. All visualizations across this report contain summarizes for the most recent complete calendar year where applicable.
+
+**Last Updated:** `r format(today(), "%B %d, %Y")`
 
 ## Overview
 
-The table below displays the count of total clinic visits, contraceptives given, and total teen visits 
-```{r}
+```{r, Table Summary by Year}
 age<-age%>%filter(age!='Total')%>%
   group_by(age, quarter)%>%
   summarise(total=sum(total))%>%
@@ -48,11 +49,13 @@ teensCount <- age %>%
                  filter(age %in% c('15-17', '18-19')) %>% 
                  pull(total) %>% 
                  sum()
+
 overview<-data.frame(Year='2023', 
             `Total Clinic Visits` = scales::number(sum(age$total), big.mark=','), 
             LARC = scales::number(nrow(larc), big.mark=','), 
             Teens = scales::number(teensCount, big.mark=',')
             )
+
 datatable(overview, options = list(paging = FALSE,
                            searching = FALSE,
                            info = FALSE
@@ -61,21 +64,16 @@ datatable(overview, options = list(paging = FALSE,
   formatStyle(columns = colnames(.), fontWeight = 'bold', `text-align` = 'left') %>%
   formatStyle(columns = colnames(.), fontFamily = "Poppins")
 
-
-
-
-
 ```
-
 
 ## Patient Demographics
 
-
-
-```{r}
+```{r, Bar Chart by Age Group}
 
 age<-age %>% mutate(age = factor(age, levels = c("Under 15", "15-17", "18-19", "20-24", '25-29', '30-34', '35-39', '40-44', 'Over 44')))
+
 age<-age[order(age$age),]
+
 ageChart <- highchart() %>%
   hc_xAxis(categories = unique(age$age)) %>%
   hc_yAxis(reversedStacks=FALSE) %>%
@@ -92,43 +90,54 @@ ageChart <- highchart() %>%
              '<b>Percent: </b>' + percent;
   }")) %>%
   hc_colors(palette_cpal_main)%>%
-  hc_title(text='2023 Family Planning Visits: Age Group and Quarter')
+  hc_title(text='Family Planning Clinic Visits by Age Group')
+
 ageChart
 ```
 
-```{r}
+```{r, Demographics Bar Chart}
+#| include: FALSE
+raceCopy<- race %>%
+  group_by(date) %>%
+  summarise(non_hispanic=sum(hispanic), race='Hispanic')
 
-raceCopy<-race%>%group_by(date)%>%summarise(non_hispanic=sum(hispanic), race='Hispanic')
-race<-race%>% select(-hispanic, -undup_totals)%>%bind_rows(raceCopy)%>%
+race<-race %>% 
+  select(-hispanic, -undup_totals) %>%
+  bind_rows(raceCopy) %>%
   mutate(race = case_when(race %in% c("American Indian", "Pacific Islander", "Mixed", "Pacific Islander", "Unknown", "Unknown/Not Reported", "More than one Race") ~ "Additional Groups",
-                          TRUE ~ race))%>%
-  group_by(race)%>%summarise(total=sum(non_hispanic))%>%
-  mutate(percent=round(total/sum(total)*100,2))%>%
+                          TRUE ~ race)) %>%
+  group_by(race) %>%
+  summarise(total=sum(non_hispanic)) %>%
+  mutate(percent=round(total/sum(total)*100,2)) %>%
   filter(race!='Total')
+
 order<-c('Hispanic', 'Black', 'White','Asian' ,'Additional Groups')
+
 race$race <- factor(race$race, levels = order) 
+
 race <- race %>% arrange(race) 
 
-raceChart<- highchart()%>%
-  hc_chart(type='bar')%>%
-  hc_xAxis(categories=race$race)%>%
+raceChart<- highchart() %>%
+  hc_chart(type='bar') %>%
+  hc_xAxis(categories=race$race) %>%
   hc_add_series(data=race$percent, tooltip = list(
     headerFormat = '',  
     pointFormat = '<b>{point.category}:</b> {point.y:.1f}%' 
-  ),showInLegend=FALSE)%>%
-  hc_colors(palette_cpal_main)%>%
-  hc_title(text='2023 Family Planning Visits: Race & Ethnicity')%>%
+  ),showInLegend=FALSE) %>%
+  hc_colors(palette_cpal_main) %>%
+  hc_title(text='Family Planning Clinic Visits by Race/Ethnicity') %>%
   hc_yAxis(labels = list(
     formatter = JS("function() { return this.value + '%'; }") 
-  ), max = 100)%>%
+  ), max = 100) %>%
   hc_plotOptions(series = list(
     groupPadding = 0.1,   # Reduce space between groups (adjust as needed)
     pointPadding = 0.05   # Reduce space within groups (adjust as needed)
   ))  
+
 raceChart
 ```
 
-```{r}
+```{r, Demographics Pie Chart, fig.height=4}
 order<-c('Additional Groups', 'Asian', 'Black','Hispanic' ,'White')
 race$race <- factor(race$race, levels = order) 
 race <- race %>% arrange(race)
@@ -144,37 +153,22 @@ racePieChart<-race%>%
 racePieChart
 ```
 
+```{r, Zip Code Data Gather}
+#| include: FALSE
 
-
-
-
-## Geographic Data
-
-```{r}
-titleX<-titleX%>%group_by(title_x, newDate)%>%summarise(value=sum(value))%>%filter(title_x=='Total')
-titleXchart<-hchart(titleX, "line", hcaes(x = newDate, y = value, group = title_x)) %>%
-  hc_xAxis(type='datetime', title=NULL) %>% 
-  hc_yAxis(title = 'Visits', min =0)%>%
-  hc_colors(palette_cpal_main) %>%
-  hc_title(text='Monthly Title X Family Planning Visits Receiving LARC')
-titleXchart
-```
-
-```{r}
-
-
-zip<-zip%>%group_by(zip_code, year) %>%
+zip<-zip %>% 
+  group_by(zip_code, year) %>%
   summarize(clients = sum(clients, na.rm = TRUE)) %>%
   ungroup() %>%
   filter(year == year(today()-years(1))) %>%
   rename(GEOID = zip_code)
 
-#acs <- load_variables(year = 2022, dataset = "acs5")
-
 var <- c("tot_wmn" = "B01001_026")
-```
 
-```{r, results='hide'}
+counties <- tigris::counties(state = "TX")
+
+dallas <- counties %>%
+  filter(GEOID == "48113")
 
 zctaEst <- get_acs(geography = "zcta",
                   year = 2022,
@@ -188,7 +182,8 @@ zctaSf <- tigris::zctas(state = "TX",
   transmute(GEOID = ZCTA5CE10,
             geometry = geometry) %>%
   left_join(., zctaEst) %>%
-  filter(!is.na(year))
+  filter(!is.na(year)) %>%
+  .[dallas, ]
 
 # Calculate Jenks natural breaks
 jenks_breaks <- classInt::classIntervals(zctaSf$visitsCap, n = 5, style = "jenks")
@@ -198,9 +193,12 @@ breaks <- signif(jenks_breaks$brks, digits = 1)
 
 # create color palette 
 color_palette <- colorBin(palette = palette_cpal_magenta, domain = zctaSf$visitsCap, bins = breaks, na.color = "transparent")
+
 ```
 
-```{r}
+##### Total Clinic Visits Per Capita in Dallas County Zip Codes
+
+```{r, Zip Code Map of Visits}
 # Create Leaflet map
 zipChart<-leaflet(data = zctaSf) %>%
   addTiles(urlTemplate = cpaltemplates::cpal_mapbox_color) %>%  
@@ -209,22 +207,20 @@ zipChart<-leaflet(data = zctaSf) %>%
     color = "#BDBDC3",
     weight = 1,
     opacity = 1,
-    fillOpacity = 0.7,
+    fillOpacity = 0.8,
     popup = ~paste("Visits per Cap: ", visitsCap)
   ) %>%
   addLegend(pal = color_palette, values = ~visitsCap, opacity = 0.7,
             title = "Visits per Cap",
             position = "bottomright")
 
-
 zipChart
 
 ```
-This map visualizes the patient density per zip code
 
-## Contraceptive and Payor Insights
+## Method and Payor Insights
 
-```{r}
+```{r, Method Heatmap}
 method<-method[method$method!='Totals',]
 
 method<-method%>%
@@ -237,7 +233,8 @@ method<-method%>%
             method %in% c('STERILIZATION')~'Sterilization',
          TRUE ~ method),
          ageCategory = factor(ageCategory, levels = c("Under 15", "15-17", "18-19", "20-24", '25-29', '30-34', '35-39', '40-44', '45+')))%>%
-   group_by(method, category, ageCategory) %>% summarise(value=sum(value))
+   group_by(method, category, ageCategory) %>% 
+  summarise(value=sum(value))
 
 MethodHeathc<-highchart() %>%
   hc_add_series(
@@ -254,7 +251,7 @@ MethodHeathc<-highchart() %>%
                maxColor = palette_cpal_magenta[8],
                stops = color_stops(3, palette_cpal_magenta)
                )%>% 
-  hc_title(text='Contraceptive Methods per Visit by Age Group')%>%
+  hc_title(text='Reported Contraceptive Methods by Age Group')%>%
   hc_tooltip(formatter = JS("function() {
       let category = this.point.category;
       let value = this.point.value.toLocaleString();
@@ -269,12 +266,11 @@ MethodHeathc<-highchart() %>%
 MethodHeathc
 ```
 
+:::{.callout-note}
+Please note that all payer types listed in the following charts are rolled up from the original data into 6 distinct sub-groups. Any payor type that includes the word `Medicaid` is listed under the `Medicaid` sub-group and Family Planning programs related to specific clinics such as `Molina`, `Amerigroup`, or `Wellpoint` are listed under `General Family Planning`.
+:::
 
-
-
-
-```{r}
-
+```{r, Payor Types All Visits Pie Chart, fig.height=4}
 
 payor<-payor %>%
   filter(payor!='Total') %>%
@@ -305,14 +301,14 @@ payorPieChart<-highchart() %>%
             layout = "vertical",
             verticalAlign = "middle")%>%
   hc_colors(palette_cpal_main)%>%
-  hc_title(text='Distribution of Payors for Clinic Visits')
+  hc_title(text='Payors for Family Planning Clinic Visits')
 
 payorPieChart
 
 ```
 
+```{r, Total Payers Over Time by Month}
 
-```{r}
 payor<-payor%>%group_by(newDate, payorTypes)%>%summarise(value=sum(value))
 payorChart<- highchart()%>%
   hc_add_series(data = payor, type = 'area', hcaes(x = payorTypes, y = value, group = payorTypes))%>%
@@ -322,16 +318,23 @@ payorChart<- highchart()%>%
 payorChart
 ```
 
-
-
-
-
-
-
 ## LARC Insights
 
-```{r}
+:::{.callout-note}
+The following charts contain summaries for all patients who received a LARC after birth at a Parkland Health Clinic. 
+:::
 
+```{r, Title X Line Chart for LARC}
+titleX<-titleX%>%group_by(title_x, newDate)%>%summarise(value=sum(value))%>%filter(title_x=='Total')
+titleXchart<-hchart(titleX, "line", hcaes(x = newDate, y = value, group = title_x)) %>%
+  hc_xAxis(type='datetime', title=NULL) %>% 
+  hc_yAxis(title = 'Visits', min =0)%>%
+  hc_colors(palette_cpal_main) %>%
+  hc_title(text='Title X Family Planning Visits Receiving LARC')
+titleXchart
+```
+
+```{r, Payors LARC Pie Chart, fig.height=4}
 larcByPayor<-larc%>%group_by(payor) %>% summarise(n=n())%>% 
   mutate(percent = round(n/sum(n)*100, 2),
          payor = case_when(payor %in% c('Managed Care', 'Managed Care ACA', 'Medicare Managed Care', 'Medicaid Managed Care', 'Medicaid (traditional)')~ 'Managed Care', 
@@ -347,8 +350,7 @@ larcPayorChart <-larcByPayor%>%hchart('pie', hcaes(x=payor, y= percent), name = 
 larcPayorChart
 ```
 
-```{r}
-
+```{r, Race/Ethnicity LARC Pie Chart, fig.height=4}
 larcCopy <- larc %>% mutate(hispanic = ifelse(ethnicity %in% c("Hispanic", "Latino"), 1, 0),
                                          non_hispanic = ifelse(ethnicity %in% c("Hispanic", "Latino"), 0, 1))
 larcHispanic<-larcCopy%>%summarise(total=sum(hispanic), race = 'Hispanic')

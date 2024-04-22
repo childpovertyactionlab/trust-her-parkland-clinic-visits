@@ -284,16 +284,6 @@ h4 {
     }
 }
 
-h2#toc-title {
-    height: auto;
-    padding: 5px;
-    padding-left: 10px;
-
-    &::after {
-        content: none;     /* Removes the ::after content, i.e., the triangle */
-    }
-}
-
 h3 {
     width: 45%;
     height: 100%;

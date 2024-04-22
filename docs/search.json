@@ -2,43 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Family Planning",
+    "title": "Family Planning Clinic Visits",
     "section": "",
-    "text": "This report tracks quarterly family planning visit data from Parkland Health Clinics."
+    "text": "The Child Poverty Action Lab receives a roll-up of family planning related visits to Parkland Health Clinics across Dallas County quarterly. All visualizations across this report contain summarizes for the most recent complete calendar year where applicable.\nLast Updated: April 22, 2024"
   },
   {
     "objectID": "index.html#overview",
     "href": "index.html#overview",
-    "title": "Family Planning",
+    "title": "Family Planning Clinic Visits",
     "section": "Overview",
-    "text": "Overview\nThe table below displays the count of total clinic visits, contraceptives given, and total teen visits"
+    "text": "Overview"
   },
   {
     "objectID": "index.html#patient-demographics",
     "href": "index.html#patient-demographics",
-    "title": "Family Planning",
+    "title": "Family Planning Clinic Visits",
     "section": "Patient Demographics",
-    "text": "Patient Demographics"
+    "text": "Patient Demographics\n\n\n\n\n\n\n\n\n\n\n\n\n\nTotal Clinic Visits Per Capita in Dallas County Zip Codes"
   },
   {
-    "objectID": "index.html#geographic-data",
-    "href": "index.html#geographic-data",
-    "title": "Family Planning",
-    "section": "Geographic Data",
-    "text": "Geographic Data\n\n\n\n\n\n\n\n\n\n\n\n\nThis map visualizes the patient density per zip code"
-  },
-  {
-    "objectID": "index.html#contraceptive-and-payor-insights",
-    "href": "index.html#contraceptive-and-payor-insights",
-    "title": "Family Planning",
-    "section": "Contraceptive and Payor Insights",
-    "text": "Contraceptive and Payor Insights"
+    "objectID": "index.html#method-and-payor-insights",
+    "href": "index.html#method-and-payor-insights",
+    "title": "Family Planning Clinic Visits",
+    "section": "Method and Payor Insights",
+    "text": "Method and Payor Insights\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nPlease note that all payer types listed in the following charts are rolled up from the original data into 6 distinct sub-groups. Any payor type that includes the word Medicaid is listed under the Medicaid sub-group and Family Planning programs related to specific clinics such as Molina, Amerigroup, or Wellpoint are listed under General Family Planning."
   },
   {
     "objectID": "index.html#larc-insights",
     "href": "index.html#larc-insights",
-    "title": "Family Planning",
+    "title": "Family Planning Clinic Visits",
     "section": "LARC Insights",
-    "text": "LARC Insights"
+    "text": "LARC Insights\n\n\n\n\n\n\nNote\n\n\n\nThe following charts contain summaries for all patients who received a LARC after birth at a Parkland Health Clinic."
   }
 ]
